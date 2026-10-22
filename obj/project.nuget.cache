@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2EvkK92pM+4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\msi\\source\\repos\\E-learning\\E-learning.Server\\E-learning.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msi\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.12\\microsoft.aspnetcore.openapi.9.0.12.nupkg.sha512",
+    "C:\\Users\\msi\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\9.0.21\\microsoft.aspnetcore.spaproxy.9.0.21.nupkg.sha512",
+    "C:\\Users\\msi\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
